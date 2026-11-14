@@ -1,2 +1,2 @@
-# LINEAGEOS-24-AEMULATOR-COMPATIBLE
-This ROM Contains Trebledroid and ARM64 and Gapps But Only Download for Aemulator If You Download For Your Phone Good luck With your Camera Browser AudioFX Crashing ;)
+# ANDROID 2-17 CUSTOM ROMS FOR AEMULATOR PLUS
+Some Roms Going to Crash but some of them Working Perfectly 60FPS
